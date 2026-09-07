@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Driftly</string>
+    <string name="notification_channel_name">Sleep Sounds Playback</string>
+    <string name="notification_channel_description">Controls for currently playing sleep sounds</string>
+    <string name="notification_title">Driftly is playing</string>
+    <string name="notification_stop">Stop</string>
+</resources>
